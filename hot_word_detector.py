@@ -1,0 +1,1 @@
+snowboy_resource/examples/Python3/hot_word_detector.py
