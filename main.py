@@ -5,15 +5,18 @@ import time
 import re
 import os
 from gtts import gTTS
+from to_do_task import do_task
 
 
 class main:
 
 
     def __init__(self):
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+        self.res_dir = os.path.join(self.base_dir, 'snowboy_resource/resources/')
         self.pgm_terminated = False
         self.hw_detected = False
-        self.model = './snowboy_resource/resources/edith.pmdl'
+        self.model = '{}edith.pmdl'.format(self.res_dir)
         self.sensitivity = 0.5
         self.hwd_thread = None
 
@@ -34,12 +37,12 @@ class main:
 
 
     def hotword_sensitivity_adjust(self):
-        match_dict = {0.5:[0,5000],
-                        0.45:[5001,10000],
-                        0.35:[10001,15000],
-                        0.25:[15001,20000],
-                        0.15:[20000,25000],
-                        0.1:[25000,50000]}
+        match_dict = {0.40:[0,3000],
+                        # 0.40:[1001,3000],
+                        0.35:[3001,8000],
+                        0.25:[8001,12000],
+                        0.15:[12001,20000],
+                        0.1:[20000,50000]}
         curr_energy = cmt.cm_threshold
         for key,value in match_dict.items():
             if( value[0] <= curr_energy <= value[1] ):
@@ -50,7 +53,7 @@ class main:
         self.hwd.detect_stop()
 
 
-    def detect_recognize_act(self, cmt, stt):
+    def detect_recognize_act(self, cmt, stt, tdt):
         while not self.hw_detected:
             cmt.current_mic_threshold()
             self.hotword_sensitivity_adjust()
@@ -59,23 +62,33 @@ class main:
             while not self.hw_detected:
                 if( time.time() - self.hwd_thread_started_time >= 15 ):
                     self.stop_hwd_thread()
+                    os.system('clear;echo "\n"')
                     break
             self.hwd_thread.join()
             print('\r')
 
         if(self.hw_detected):
             # self.say('yes_sir')
-            text = stt.speech_to_text()
-            if(text != None):
-                print('\nYou Said : ' + text + '\n')
-                if(re.search(r'terminate program',text.lower())):
-                    self.pgm_terminated = True
+            speech = stt.speech_to_text()
+            if(speech != None):
+                self.do_after_recognition(speech, tdt)
             else:
-                pass
+                print('\nRetrying....')
+                speech = stt.speech_to_text()
+                if(speech != None):
+                    self.do_after_recognition(speech, tdt)
+
+
+    def do_after_recognition(self, speech, tdt):
+        print('\nYou Said : ' + speech + '\n')
+        if(re.search(r'(terminate|stop|close|quit) (program|yourself|execution|your execution)', speech.lower())):
+            self.pgm_terminated = True
+        else:
+            tdt.identify_task(speech)
 
 
     def say(self, file_name):
-        os.system('mpg321 ./snowboy_resource/resources/{}.mp3'.format(file_name))
+        os.system('mpg321 {0}{1}.mp3'.format(self.res_dir, file_name))
 
 
     def create_assistant_response_audio(self):
@@ -89,21 +102,21 @@ class main:
         print('\nTo confirm press 1 else 0 to decline the task !')
         opt = input()
         if(opt == '1'):
-            if(os.path.isfile('./snowboy_resource/resources/{}.mp3'.format(file_name))):
+            if(os.path.isfile('{0}{1}.mp3'.format(self.res_dir, file_name))):
                 print('\nAlert ALert aleRT !!!')
                 print('\nFile with same name already exsist ...')
                 print('\nDo You want to override it or want to Retry with the name ? (override=1 , retry=2)')
                 opt = input()
                 if(opt == '1'):
                     audio = gTTS(text=text, lang='en-in')
-                    audio.save('./snowboy_resource/resources/{}.mp3'.format(file_name))
-                    os.system('mpg321 ./snowboy_resource/resources/{}.mp3'.format(file_name))
+                    audio.save('{0}{1}.mp3'.format(self.res_dir, file_name))
+                    os.system('mpg321 {0}{1}.mp3'.format(self.res_dir, file_name))
                 elif(opt == '2'):
                     self.create_assistant_response_audio()
             else:
                 audio = gTTS(text=text, lang='en-in')
-                audio.save('./snowboy_resource/resources/{}.mp3'.format(file_name))
-                os.system('mpg321 ./snowboy_resource/resources/{}.mp3'.format(file_name))
+                audio.save('{0}{1}.mp3'.format(self.res_dir, file_name))
+                os.system('mpg321 {0}{1}.mp3'.format(self.res_dir, file_name))
         elif(opt == '0'):
             print('\nTask Terminated !!!')
         return
@@ -112,10 +125,13 @@ class main:
 
 if(__name__ == '__main__'):
 
+    main_obj = main()
     cmt = speech_recognizer.cmt_class()
     stt = speech_recognizer.stt_class()
-    main_obj = main()
+    tdt = do_task(main_obj=main_obj)
+    # tdt = None
     while not main_obj.pgm_terminated:
-        main_obj.detect_recognize_act(cmt, stt)
+        main_obj.detect_recognize_act(cmt, stt, tdt)
         main_obj.hw_detected = False
+        os.system('clear;echo "\n"')
     print('Exited!!!\n')

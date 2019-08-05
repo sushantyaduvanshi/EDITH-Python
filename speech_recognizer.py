@@ -7,6 +7,8 @@ import os
 class stt_class(sr.Recognizer):
 
     def __init__(self):
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+        self.res_dir = os.path.join(self.base_dir, 'snowboy_resource/resources/')
         self.mic = sr.Microphone()
         sr.Recognizer.__init__(self)
         # self.sr = sr.Recognizer()
@@ -15,10 +17,10 @@ class stt_class(sr.Recognizer):
         with self.mic as source:
             print('\nAdjusting Ambient Noise...\n')
             self.adjust_for_ambient_noise(source)
-            os.system('play ./snowboy_resource/resources/dong.wav')
+            os.system('play {}dong.wav'.format(self.res_dir))
             print('\nListening...\n')
             try:
-                audio = self.listen(source, timeout=10)
+                audio = self.listen(source, timeout=10, phrase_time_limit=10)
             except sr.WaitTimeoutError:
                 print("You Didn't Say Anything...")
                 return None

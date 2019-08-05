@@ -1,0 +1,380 @@
+/Applications/Siri.app
+/Applications/Visual Studio Code.app
+/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app
+/Applications/VLC.app
+/Applications/VLC.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
+/Applications/VLC.app/Contents/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app
+/Applications/PyCharm CE with Anaconda plugin.app
+/Applications/QuickTime Player.app
+/Applications/Chess.app
+/Applications/Adobe XD/Adobe XD.app
+/Applications/Adobe XD/Adobe XD.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe XD/Adobe XD.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Image2Icon.app
+/Applications/Photo Booth.app
+/Applications/Books.app
+/Applications/TeamViewer.app
+/Applications/TeamViewer.app/Contents/Frameworks/TVNoteIntegration.framework/Versions/A/Resources/TeamViewer Note.app
+/Applications/TeamViewer.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
+/Applications/Notes.app
+/Applications/Image Capture.app
+/Applications/Home.app
+/Applications/Avast.app
+/Applications/Avast.app/Contents/Backend/utils/com.avast.uninstall.app
+/Applications/Avast.app/Contents/Backend/services/com.avast.helper.app
+/Applications/Google Chrome.app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/75.0.3770.142/Helpers/Google Chrome Helper.app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/75.0.3770.100/Helpers/Google Chrome Helper.app
+/Applications/Zenmap.app
+/Applications/MAMP/MAMP.app
+/Applications/MAMP/MAMP.app/Contents/MacOS/de.appsolute.mamphelper.app
+/Applications/Android File Transfer.app
+/Applications/Android File Transfer.app/Contents/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app
+/Applications/Android File Transfer.app/Contents/Helpers/Android File Transfer Agent.app
+/Applications/Android File Transfer.app/Contents/Helpers/Android File Transfer Agent.app/Contents/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app
+/Applications/VMware Fusion.app
+/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app
+/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper EH.app
+/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper NP.app
+/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper.app
+/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app
+/Applications/Preview.app
+/Applications/MAMP PRO.app
+/Applications/MAMP PRO.app/Contents/MacOS/MAMP PRO Uninstaller.app
+/Applications/Xcode.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/snappy-1.0.5/ebin/snappy.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/couch-1.7.1/ebin/couch.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/couch_plugins-0.1/ebin/couch_plugins.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/ibrowse-2.2.0/ebin/ibrowse.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/couch_mrview-0.1/ebin/couch_mrview.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/erlang-oauth/ebin/oauth.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/ejson-0.1.0/ebin/ejson.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/couch_replicator-0.1/ebin/couch_replicator.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/couchdb/erlang/lib/mochiweb-1.4.1/ebin/mochiweb.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/sasl-2.3.4/ebin/sasl.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/inets-5.9.8/ebin/inets.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/syntax_tools-1.6.13/ebin/syntax_tools.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/os_mon-2.2.14/ebin/os_mon.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/ssl-5.3.3/ebin/ssl.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/stdlib-1.19.4/ebin/stdlib.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/compiler-4.9.4/ebin/compiler.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/asn1-2.0.4/ebin/asn1.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/xmerl-1.3.6/ebin/xmerl.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/kernel-2.16.4/ebin/kernel.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/public_key-0.21/ebin/public_key.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/crypto-3.2/ebin/crypto.app
+/Applications/Xcode.app/Contents/Developer/usr/share/xcs/CouchDB/lib/erlang/lib/eldap-1.0.2/ebin/eldap.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/Xcode/Agents/XCTRunner.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/AssistiveTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/VoiceOverTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSCredentialsAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SiriViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVNowPlayingService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVSettings.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/VideoSubscriberAccountViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/StoreDemoViewServiceTv.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/WebContentAnalysisUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVScreenSaver.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVRestrictionPINService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVCRDService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVDiagnostics.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PineBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVShows.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVAppStore.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SharingViewServiceTV.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PreBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVPhotos.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Podcasts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVGameCenterUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVWhatsNew.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DiagnosticsService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVSystemBulletinService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PBLinkHandler.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVMovies.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVPeripheralAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVDisplayAssistant.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVHomeSharing.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVAccessViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/iCloud.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVAirPlay.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVMusic.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/HeadBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVSearch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/tvOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVConferenceRoomDisplay.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Agents/XCTRunner.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/ClimateProxy.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/EscrowSecurityAlert.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/SpringBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/AssistiveTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/ScreenSharingServer.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/VoiceOverTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/DeviceOMatic.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSCredentialsAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileSMS.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AppleTV.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SiriViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PassbookStub.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PhotosViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SLGoogleAuth.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AirPodcasts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SLYahooAuth.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Music.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/FunCameraText.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Family.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Bridge.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/VideoSubscriberAccountViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/HashtagImages.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SoftwareUpdateUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Photo Booth.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/WebSheet.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Files.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Books.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/WebContentAnalysisUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileMail.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PassbookUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AppStore.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Passbook.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/StoreDemoViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/ActivityMessagesApp.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/HomeUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/CoreAuthUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/StoreKitUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DDActionsService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/News.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileCal.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DataActivation.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/GameCenterUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PreBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Podcasts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Health.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SharingViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileNotes.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Print Center.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DiagnosticsService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TrustMe.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/BusinessExtensionsWrapper.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Contacts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/FaceTime.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AdPlatformsDiagnostics.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Fitness.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MusicUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Measure.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileSafari.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AXUIViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Maps.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AirMusic.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/ScreenshotServicesService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/iAdOptOut.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/WebApp1.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Camera.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Preferences.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/FindMyFriends.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MailCompositionService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MessagesViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/LoginUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Calculator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/CTCarrierSpaceAuth.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/HealthPrivacyService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/ScreenSharingViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/FunCameraShapes.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AccountAuthenticationDialog.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/MobileSlideShow.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TVAccessViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/iCloud.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Diagnostics.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Reminders.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Web.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/AskPermissionUI.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Jellyfish.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SafariViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/CheckerBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SharedWebCredentialViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DNDBuddy.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/SIMSetupUIService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Magnifier.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/EscrowSecurityAlert.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/VoiceOverTouch.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/CoreServices/Carousel.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSCredentialsAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DataMigrationMonitor.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoCalendar.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoReminders.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoNowPlaying.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/TinCan.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoMaps.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoMusic.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/PreBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/ReBoard.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/Podcasts.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/DiagnosticsService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoDiagnostics.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoNowPlayingViewService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoMailBulletinService.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoSettings.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoWeather.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoPhone.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoNews.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoDemo.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoHome.app
+/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/watchOS.simruntime/Contents/Resources/RuntimeRoot/Applications/NanoFindMyFriends.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebKitLegacy.framework/Versions/A/WebKitPluginHost.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Xcode/Agents/Xcode Helper.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Xcode/Agents/XCTRunner.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Interface Builder/Plug-ins/CarbonPlugin.ibplugin/Contents/Resources/IBCarbonSimulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Interface Builder/Plug-ins/CocoaPlugin.ibplugin/Contents/Resources/IBCocoaSimulator.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/GPUToolsPlatform/DesktopReplayer.app
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/GPUToolsPlatform/GPUToolsAgent.app
+/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/Library/Xcode/Agents/XCTRunner.app
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Xcode/Agents/XCTRunner.app
+/Applications/Xcode.app/Contents/Developer/Applications/Xcode Server Builder.app
+/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app
+/Applications/Xcode.app/Contents/Applications/Instruments.app
+/Applications/Xcode.app/Contents/Applications/Instruments.app/Contents/Helpers/backgroundinstruments.app
+/Applications/Xcode.app/Contents/Applications/FileMerge.app
+/Applications/Xcode.app/Contents/Applications/Application Loader.app
+/Applications/Xcode.app/Contents/Applications/Accessibility Inspector.app
+/Applications/Dashboard.app
+/Applications/News.app
+/Applications/Spotify.app
+/Applications/Spotify.app/Contents/Library/LoginItems/StartUpHelper.app
+/Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app
+/Applications/Macs Fan Control.app
+/Applications/TextEdit.app
+/Applications/Microsoft Word.app
+/Applications/Microsoft Word.app/Contents/SharedSupport/Open XML for Excel.app
+/Applications/Microsoft Word.app/Contents/SharedSupport/Microsoft Error Reporting.app
+/Applications/Microsoft Word.app/Contents/Frameworks/osf.framework/Versions/A/OsfWebHost.app
+/Applications/Stocks.app
+/Applications/Mail.app
+/Applications/Safari.app
+/Applications/Dictionary.app
+/Applications/Contacts.app
+/Applications/Time Machine.app
+/Applications/Utilities/AirPort Utility.app
+/Applications/Utilities/Adobe Flash Player Install Manager.app
+/Applications/Utilities/VoiceOver Utility.app
+/Applications/Utilities/VoiceOver Utility.app/Contents/OtherBinaries/VoiceOverUtilityCacheBuilder.app
+/Applications/Utilities/Terminal.app
+/Applications/Utilities/Activity Monitor.app
+/Applications/Utilities/Screenshot.app
+/Applications/Utilities/Grapher.app
+/Applications/Utilities/Audio MIDI Setup.app
+/Applications/Utilities/Adobe Creative Cloud/AppsPanel/Updater/Adobe Application Updater.app
+/Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Desktop App.app
+/Applications/Utilities/Adobe Creative Cloud/Utils/CC Troubleshooter.app
+/Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Installer.app
+/Applications/Utilities/Adobe Creative Cloud/Utils/Creative Cloud Uninstaller.app
+/Applications/Utilities/Adobe Creative Cloud/HDCore/Uninstaller.app
+/Applications/Utilities/Adobe Creative Cloud/HDCore/Install.app
+/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app
+/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/LogTransport.app
+/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/Adobe CEF Helper.app
+/Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app
+/Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/libs/Adobe CCXProcess.app
+/Applications/Utilities/System Information.app
+/Applications/Utilities/Keychain Access.app
+/Applications/Utilities/Migration Assistant.app
+/Applications/Utilities/Adobe Sync/CoreSyncExtension/ACCFinderBundleLoader.app
+/Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app
+/Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/LogTransport.app
+/Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+/Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+/Applications/Utilities/Script Editor.app
+/Applications/Utilities/ColorSync Utility.app
+/Applications/Utilities/Console.app
+/Applications/Utilities/Disk Utility.app
+/Applications/Utilities/Bluetooth File Exchange.app
+/Applications/Utilities/Boot Camp Assistant.app
+/Applications/Utilities/Adobe Application Manager/DWA/Setup.app
+/Applications/Utilities/Adobe Application Manager/core/Adobe Application Manager.app
+/Applications/Utilities/Adobe Application Manager/core/PDApp.app
+/Applications/Utilities/Adobe Application Manager/core/AAMLauncherUtil.app
+/Applications/Utilities/Adobe Application Manager/D6/Setup.app
+/Applications/Utilities/Adobe Application Manager/UWA/AAM Updates Notifier.app
+/Applications/Utilities/Adobe Application Manager/UWA/LogTransport2.app
+/Applications/Utilities/Adobe Application Manager/UWA/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Utilities/Adobe Application Manager/P7/adobe_licutil.app
+/Applications/Utilities/Adobe Application Manager/P7/adobe_lichelper.app
+/Applications/Utilities/Adobe Application Manager/P7/adobe_licensing_helper.app
+/Applications/Utilities/Adobe Application Manager/P7/AASIapp.app
+/Applications/Utilities/Adobe Application Manager/P6/adobe_licutil.app
+/Applications/Utilities/Adobe Application Manager/P6/AAM Registration Notifier.app
+/Applications/Utilities/Adobe Application Manager/LWA/adobe_licutil.app
+/Applications/Utilities/Adobe Application Manager/LWA/AAM Registration Notifier.app
+/Applications/Utilities/Adobe Application Manager/IPC/AdobeIPCBroker.app
+/Applications/Utilities/Adobe Application Manager/DECore/DE6/resources/uninstall/Uninstall Product.app
+/Applications/Utilities/Adobe Application Manager/DECore/DE5/resources/uninstall/Uninstall Product.app
+/Applications/Utilities/Adobe Application Manager/DECore/Setup.app
+/Applications/Utilities/Digital Color Meter.app
+/Applications/Font Book.app
+/Applications/FaceTime.app
+/Applications/Helium.app
+/Applications/Wireshark.app
+/Applications/Python 3.7/IDLE.app
+/Applications/Python 3.7/Python Launcher.app
+/Applications/Adobe Lightroom.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/Adobe Lightroom Helper.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/Adobe Lightroom Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/LogTransport.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/Adobe Lightroom Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/Adobe Lightroom Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/LogTransport2.app
+/Applications/Adobe Lightroom.app/Contents/MacOS/LogTransport2.app/Contents/MacOS/HLCrashProcessor.app
+/Applications/Adobe Lightroom.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/LogTransport.app
+/Applications/Adobe Lightroom.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/AdobeCRDaemon.app
+/Applications/Adobe Lightroom.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
+/Applications/Maps.app
+/Applications/Mission Control.app
+/Applications/Pages.app
+/Applications/Hey Macintosh.app
+/Applications/Stickies.app
+/Applications/Photos.app
+/Applications/iDisplay.app
+/Applications/iDisplay.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
+/Applications/Messages.app
+/Applications/Chrome Remote Desktop Host Uninstaller.app
+/Applications/Atom.app
+/Applications/Atom.app/Contents/Frameworks/Atom Helper.app
+/Applications/Atom.app/Contents/Frameworks/Atom Helper NP.app
+/Applications/Atom.app/Contents/Frameworks/Atom Helper EH.app
+/Applications/Calculator.app
+/Applications/FileZilla.app
+/Applications/VoiceMemos.app
+/Applications/iTunes.app
+/Applications/iTunes.app/Contents/MacOS/iTunesHelper.app
+/Applications/Launchpad.app
+/Applications/Postman.app
+/Applications/Postman.app/Contents/Frameworks/Postman Helper NP.app
+/Applications/Postman.app/Contents/Frameworks/Postman Helper.app
+/Applications/Postman.app/Contents/Frameworks/Postman Helper EH.app
+/Applications/Reminders.app
+/Applications/App Store.app
+/Applications/Anaconda-Navigator.app
+/Applications/AvastSecureLine.app
+/Applications/AvastSecureLine.app/Contents/Library/LoginItems/6H4HRTU5E3.com.avast.osx.secureline.avastsecurelinehelper.app
+/Applications/AvastSecureLine.app/Contents/Applications/com.avast.osx.secureline.uninstaller.app
+/Applications/AvastSecureLine.app/Contents/Applications/com.avast.osx.secureline.nm.app
+/Applications/Automator.app
+/Applications/Automator.app/Contents/Resources/Application Stub.app
+/Applications/Battery Notifier.app
+/Applications/uTorrent.app
+/Applications/uTorrent.app/Contents/Frameworks/Sparkle.framework/Resources/Autoupdate.app
+/Applications/uTorrent.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
+/Applications/uTorrent.app/Contents/Frameworks/Sparkle.framework/Versions/Current/Resources/Autoupdate.app
+/Applications/AnyDesk.app
+/Applications/BlueStacks.app
+/Applications/BlueStacks.app/Contents/MacOS/BlueStacks Support Tool.app
+/Applications/Calendar.app
+/Applications/System Preferences.app
