@@ -49,7 +49,7 @@ class hotword_detect:
 
 
 if(__name__ == '__main__'):
-    h = hotword_detect(model="/Users/sushantyadav/Documents/Projects/Edith/snowboy_resource/examples/Python3/resources/edith.pmdl", success_function=snowboydecoder.play_audio_file)
+    h = hotword_detect(model="/Users/sushantyadav/Documents/Projects/Edith/snowboy_resource/resources/ok_edith.pmdl", success_function=snowboydecoder.play_audio_file)
     try:
         h.detect()
     except KeyboardInterrupt:

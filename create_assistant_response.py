@@ -1,3 +1,5 @@
+# this script is used to create new custom voice responses by Edith
+
 from main import main
 
 if(__name__ == '__main__'):

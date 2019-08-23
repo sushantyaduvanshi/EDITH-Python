@@ -24,7 +24,10 @@
 /Applications/Avast.app/Contents/Backend/services/com.avast.helper.app
 /Applications/Google Chrome.app
 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/75.0.3770.142/Helpers/Google Chrome Helper.app
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/75.0.3770.100/Helpers/Google Chrome Helper.app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/76.0.3809.100/Helpers/Google Chrome Helper (GPU).app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/76.0.3809.100/Helpers/Google Chrome Helper (Plugin).app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/76.0.3809.100/Helpers/Google Chrome Helper.app
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/76.0.3809.100/Helpers/Google Chrome Helper (Renderer).app
 /Applications/Zenmap.app
 /Applications/MAMP/MAMP.app
 /Applications/MAMP/MAMP.app/Contents/MacOS/de.appsolute.mamphelper.app
@@ -283,7 +286,6 @@
 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Reporter.app
 /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/Adobe CEF Helper.app
 /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app
-/Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents/libs/Adobe CCXProcess.app
 /Applications/Utilities/System Information.app
 /Applications/Utilities/Keychain Access.app
 /Applications/Utilities/Migration Assistant.app

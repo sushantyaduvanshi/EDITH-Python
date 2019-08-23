@@ -13,7 +13,7 @@ class stt_class(sr.Recognizer):
         sr.Recognizer.__init__(self)
         # self.sr = sr.Recognizer()
 
-    def speech_to_text(self):
+    def speech_to_text(self):      # This method listens voice command and convert it to text and return back.
         with self.mic as source:
             print('\nAdjusting Ambient Noise...\n')
             self.adjust_for_ambient_noise(source)
@@ -27,6 +27,7 @@ class stt_class(sr.Recognizer):
         print('Recognizing Speech...\n')
         try:
             text = self.recognize_google(audio)
+            os.system('echo \\"{0}\\">>{1}speech_logs.txt'.format(text, self.res_dir))
             return text
         except sr.RequestError:
             print('Connection Not Established !!!')
