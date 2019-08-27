@@ -1,0 +1,7 @@
+{
+    "website_list": "google|youtube",
+    "name":{
+        "google":"http://www.google.com",
+        "youtube":"http://www.youtube.com"
+    }
+}

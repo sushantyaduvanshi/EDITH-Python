@@ -37,8 +37,8 @@ class main:
 
 
     def hotword_sensitivity_adjust(self):   # adjust sensitivity for hotword detection acc to environmental noice
-        match_dict = {0.50:[0,3000],
-                        0.45:[3001,8000],
+        match_dict = {0.50:[0,2000],
+                        0.48:[2001,8000],
                         0.35:[8001,12000],
                         0.25:[12001,20000],
                         0.15:[20000,50000]}
@@ -91,17 +91,18 @@ class main:
             cmd2 = speech[multi_cmd.end()+1:]
             self.do_after_recognition(cmd1, tdt)
             self.do_after_recognition(cmd2, tdt)
-        if(re.search(r'\byourself\b|\byour\b', speech.lower())):
-            if(re.search(r'(terminate|stop|close|quit|shutdown)', speech.lower())):
-                self.pgm_terminated = True
-            elif(re.search(r'reboot|restart|refresh', speech.lower())):
-                self.pgm_terminated = True
-                self.restart=True
-                self.say('ok_sir')
+        else:
+            if(re.search(r'\byourself\b|\byour\b', speech.lower())):
+                if(re.search(r'(terminate|stop|close|quit|shutdown)', speech.lower())):
+                    self.pgm_terminated = True
+                elif(re.search(r'reboot|restart|refresh|start', speech.lower())):
+                    self.pgm_terminated = True
+                    self.restart=True
+                    self.say('ok_sir')
+                else:
+                    tdt.identify_task(speech)
             else:
                 tdt.identify_task(speech)
-        else:
-            tdt.identify_task(speech)
 
 
     def say(self, file_name):

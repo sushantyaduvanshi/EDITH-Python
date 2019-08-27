@@ -18,12 +18,14 @@ class stt_class(sr.Recognizer):
             print('\nAdjusting Ambient Noise...\n')
             self.adjust_for_ambient_noise(source)
             os.system('play {}dong.wav'.format(self.res_dir))
+            os.system("osascript -e 'set volume output muted true'")
             print('\nListening...\n')
             try:
                 audio = self.listen(source, timeout=10, phrase_time_limit=10)
             except sr.WaitTimeoutError:
                 print("You Didn't Say Anything...")
                 return None
+        os.system("osascript -e 'set volume output muted false'")
         print('Recognizing Speech...\n')
         try:
             text = self.recognize_google(audio)

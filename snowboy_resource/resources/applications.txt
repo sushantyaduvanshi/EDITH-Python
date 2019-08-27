@@ -363,6 +363,11 @@
 /Applications/Postman.app/Contents/Frameworks/Postman Helper EH.app
 /Applications/Reminders.app
 /Applications/App Store.app
+/Applications/Evernote.app
+/Applications/Evernote.app/Contents/Resources/EvernotePDFHelper.app
+/Applications/Evernote.app/Contents/Library/LoginItems/EvernoteHelper.app
+/Applications/Evernote.app/Contents/Library/LoginItems/EvernoteLauncher.app
+/Applications/Evernote.app/Contents/Frameworks/ENAttachmentToPDF.framework/Versions/A/Resources/ENAttachmentToPDFHelper.app
 /Applications/Anaconda-Navigator.app
 /Applications/AvastSecureLine.app
 /Applications/AvastSecureLine.app/Contents/Library/LoginItems/6H4HRTU5E3.com.avast.osx.secureline.avastsecurelinehelper.app
